@@ -5,6 +5,8 @@ DOMAIN-SUFFIX,bigwu.xyz
 DOMAIN-SUFFIX,samsung.com
 DOMAIN-SUFFIX,samsungapps.com
 DOMAIN-SUFFIX,qichiyu.com
+DOMAIN-SUFFIX,samsungconsent.com
+DOMAIN-SUFFIX,samsungapps.com
 IP-CIDR,192.168.0.0/16,no-resolve
 IP-CIDR,127.0.0.0/8,no-resolve
 IP-CIDR,10.0.0.0/8,no-resolve
